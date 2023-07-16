@@ -23,17 +23,17 @@ var categoria = 'Computadoras',
 
 // las variables no pueden iniciar con números
 
-var 00dias;
-var dias99;
+// var 00dias;
+// var dias99;
 
-var 01_;
-var _01;
-var _usuarios;
-var __usuarios;
+// var 01_;
+// var _01;
+// var _usuarios;
+// var __usuarios;
 
 
-var nombreProducto;
+// var nombreProducto;
 
-var nombre_producto_categoria_precio;
+// var nombre_producto_categoria_precio;
 
 
