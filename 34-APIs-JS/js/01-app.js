@@ -4,6 +4,9 @@ const notificarBtn = document.querySelector('#notificar');
 
 
 notificarBtn.addEventListener('click', () => {
+
+    console.log("pasa");
+
     Notification.requestPermission()
         .then(resultado => {
             console.log('El resultado es: ', resultado);
